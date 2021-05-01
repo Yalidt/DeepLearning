@@ -6,4 +6,5 @@
 | Pipeline4 | 3.2829 |  3.2533| 0.417 | 2856 | Yalidt |
 | Pipeline5 | 2.9867 | 3.2967 | 0.419 | 1969 | Yedam |
 | Pipeline5.1 | 1.7227 | 2.8818 | 0.409 | 251 | Yedam |
-| Pipeline6 |  |  |  |  | ? |
+| Pipeline6 | 3.2808 | 3.3667 | 0.434 | 3155 | Yedam |
+| Pipeline7 | 2.5256 | 2.7386 | 0.411 | 326 | Yedam |
